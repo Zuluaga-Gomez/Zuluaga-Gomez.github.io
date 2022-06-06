@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Colombia"
-title                    : "About Me"
+locale                   : "en-US"
+title                    : "Alejandro Zuluaga-Gomez"
 title_separator          : "-"
-name                     : &name "Alejandro Zuluaga-Gómez"
-description              : &description "Environmental engineer, Master in aquatic ecology. With experience in environmental impact studies, monitoring of freshwater aquatic ecosystems, environmental management of infrastructure projects for transportation, power generation and mining, ecological studies about the structure of aquatic communities and their interactions in continental ecosystems. Software Management for the statistical processing of ecological data (Statists, Biodiversity pro, Primer, R, Past, Excel, Canuco, Matlab) and geographic information such as QGIS. Lee writes, speaks in Portuguese (certified by Celpe-Bras), Lee writes in English. He is currently working on research on trophic interactions and relations with primary production sources in lotic ecosystems in the Amazon region of Brazil and trans-Andean ecosystems such as the Magdalena River in Colombia, using nuclear tools (stable isotopes); for the evaluation of environmental impacts in civil constructions and measures of conservation status and recovery of impacted ecosystems. Analysis of ecosystem services and economic impact assessment. Colombian environmental legislation"
-url                      : https://Zuluaga-Gomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alejandro Zuluaga-Gomez"
+description              : &description "PhD Candidate, Amazon Aquatic Ecology Center NEAP - PPGEAP | Federal University of Pará"
+url                      : https://zuluaga-gomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zuluaga/zuluaga-gomez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: https://twitter.com/Alejo_Zeta_G
-  username               : @Alejo_Zeta_G
+twitter: 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alejandro Zuliuaga-Gómez"
+  name             : "Alejandro Zuluaga-Gómez"
   avatar           : "profile.png"
   bio              : "PhD Candidate, Amazon Aquatic Ecology Center NEAP - PPGEAP | Federal University of Pará"
-  location         : "Medellin:Colombia - Belem:Brasil "
+  location         : "Medellin, Col "
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.es/citations?user=zYWNWQkAAAAJ&hl=es"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Mario-Zuluaga-Gomez"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Zuluaga-Gómez"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Alejo_Zeta_G"
+  twitter          : "Alejo_Zeta_G"
   vine             :
   weibo            :
   xing             :
