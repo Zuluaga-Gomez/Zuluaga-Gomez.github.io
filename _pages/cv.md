@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} Please check out my LinkedIn or contact me for my full CV
+{% include base_path %} Please check out my [LinkedIn](https://www.linkedin.com/in/alejandro-zuluaga-g%C3%B3mez-431822a0/) or contact me for my full CV
 
 Education
 ======
