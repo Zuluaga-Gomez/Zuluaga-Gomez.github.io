@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} Please check out my LinkedIn or contact me for my full CV
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in aquatic ecology and fisheires, Federal University of Pará Br. (candidate)
+* MSc. in aquatic ecology and fisheires, Federal University of Pará Br. 2014
+* Environmental engineer, Catholic University Co. 2011
 
 Work experience
 ======
