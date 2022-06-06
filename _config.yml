@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Alejandro Zuluaga-Gomez"
+name                     : &name "About me"
 description              : &description "PhD Candidate, Amazon Aquatic Ecology Center NEAP - PPGEAP | Federal University of Pará"
 url                      : https://zuluaga-gomez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
