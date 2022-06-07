@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} Please check out my [LinkedIn](https://www.linkedin.com/in/alejandro-zuluaga-g%C3%B3mez-431822a0/) or contact me for my full CV
+{% include base_path %} Please check out my [LinkedIn](https://www.linkedin.com/in/alejandro-zuluaga-g%C3%B3mez-431822a0/) or contact me for my full Curriculum
 
 Education
 ======
@@ -17,24 +17,47 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Alexander von Humboldt Biological Resources Research Institute. *Expert consultant.  
+  * September 2021 – Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jorge Tadeo Lozano University. *Academic Coordinator. 
+  * September - December, 2021
+
+* Santo Tomás University. *Professor. 
+  * April, 2021
+
+* University Institute of Peace. *Research Professor. 
+  * January 2020 – June 2021
+
+* Alexander von Humboldt Biological Resources Research Institute. *Expert consultant. 
+  * November 2020 – December 2020
+
+* Best Coal Company BCC, By Yildirm INC. *Environmental Leader. 
+  * April 2018 - January 2020
+
+* Catholic University of the East – Isagen. *Ichthyologist consultant in the monitoring project of migrations and hydrobiological communities of the Sogamoso River. 
+  * February 2018 - Present
+
+* Kelco SA- Corporinoquia. *Adviser monitoring networks of the prioritized basins of Corporinonquia. 
+  * October 2017 – December 2017
+
+* Navelena Constructor Consortium *Environmental Responsible for the Magdalena River Navigability Recovery Project. 
+  * February 2015 - June 2017
+
+* UNIPAZ Peace University Institution. *Part-time Professor, Hydrology, Ecological Models, Pollution Assessment and Control, Logic of Scientific Thought and Scientific Writing (Postgraduate course). 
+  * July 2016 - June 2017
+
+* Universidad Católica de Oriente, Faculty of Engineering. *Professor, experimental design, environmental impacts, research methodology. 
+  * June 2014 - February 2015
+
+* Universidad Católica de Oriente, Environmental Management Unit; Alexander von Humboldt Institute. *Ichthyologist Coordinator. 
+  * June 2014 - February 2015
+
+* Chico Mendes Institute for Biodiversity Conservation (ICMBio), Brazil. *Ichthyologist. 
+  * August 2012 - February 2013
+
+* Federal University of Pará, Brazil. *Ichthyologist. 
+  * January 2012 - May 2014
 
 Publications
 ======
