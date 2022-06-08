@@ -17,32 +17,20 @@ Education
 
 Work experience
 ======
-* Alexander von Humboldt Biological Resources Research Institute, Expert consultant / September 2021 – Present
-* Jorge Tadeo Lozano University, Academic Coordinator / September - December, 2021
-
-* Santo Tomás University, Professor / April, 2021
-
-* University Institute of Peace, Research Professor / January 2020 – June 2021
-
-* Alexander von Humboldt Biological Resources Research Institute, Expert consultant / November 2020 – December 2020
-
-* Best Coal Company BCC, By Yildirm INC, Environmental Leader / April 2018 - January 2020
-
-* Catholic University of the East – Isagen, Ichthyologist consultant in the monitoring project of migrations and hydrobiological communities of the Sogamoso River / February 2018 - Present
-
-* Kelco SA- Corporinoquia, Adviser monitoring networks of the prioritized basins of Corporinonquia / October 2017 – December 2017
-
-* Navelena Constructor Consortium Environmental, Responsible for the Magdalena River Navigability Recovery Project / February 2015 - June 2017
-
-* UNIPAZ Peace University Institution, Part-time Professor, Hydrology, Ecological Models, Pollution Assessment and Control, Logic of Scientific Thought and Scientific Writing (Postgraduate course) / July 2016 - June 2017
-
-* Universidad Católica de Oriente, Faculty of Engineering, Professor, experimental design, environmental impacts, research methodology / June 2014 - February 2015
-
-* Universidad Católica de Oriente, Environmental Management Unit; Alexander von Humboldt Institute, Ichthyologist Coordinator / June 2014 - February 2015
-
-* Chico Mendes Institute for Biodiversity Conservation (ICMBio), Brazil, Ichthyologist / August 2012 - February 2013
-
-* Federal University of Pará, Brazil, Ichthyologist / January 2012 - May 2014
+* Alexander von Humboldt Biological Resources Research Institute: Expert consultant
+  *  September 2021 Present
+* Jorge Tadeo Lozano University: Academic Coordinator 
+  * September December 2021
+* Santo Tomás University: Professor
+  * April 2021
+* University Institute of Peace: Research Professor
+  * January 2020 June 2021
+* Alexander von Humboldt Biological Resources Research Institute: Expert consultant
+  * November 2020 December 2020
+* Best Coal Company BCC By Yildirm INC: Environmental Leader
+  * April 2018 January 2020
+* Catholic University of the East  Isagen: Ichthyologist consultant in the monitoring project of migrations and hydrobiological communities of the Sogamoso River
+  * February 2018 Present
 
 Publications
 ======
