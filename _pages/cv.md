@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} Please check out my LinkedIn or contact me for my full Curriculum
+{% include base_path %}
 
 Education
 ======
@@ -19,16 +19,22 @@ Work experience
 ======
 * Alexander von Humboldt Biological Resources Research Institute: Expert consultant
   *  September 2021 Present
+
 * Jorge Tadeo Lozano University: Academic Coordinator 
   * September December 2021
+
 * Santo Tomás University: Professor
   * April 2021
+
 * University Institute of Peace: Research Professor
   * January 2020 June 2021
+
 * Alexander von Humboldt Biological Resources Research Institute: Expert consultant
   * November 2020 December 2020
+
 * Best Coal Company BCC By Yildirm INC: Environmental Leader
   * April 2018 January 2020
+
 * Catholic University of the East  Isagen: Ichthyologist consultant in the monitoring project of migrations and hydrobiological communities of the Sogamoso River
   * February 2018 Present
 
